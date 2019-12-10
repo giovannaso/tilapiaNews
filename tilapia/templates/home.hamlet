@@ -1,0 +1,218 @@
+<header class="header-area">
+
+    <div class="top-header-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="top-header-content d-flex align-items-center justify-content-between">
+
+                        <div class="logo" id="logo">
+                            <a><img src="static/core-img/logo.png">
+
+                        <div class="login-search-area d-flex align-items-center">
+
+                            <div class="login d-flex">
+                                <a>Login
+                                <a>Registro
+
+    <div class="newspaper-main-menu" id="stickyMenu">
+        <div class="classy-nav-container breakpoint-off">
+            <div class="container">
+
+                <nav class="classy-navbar justify-content-between" id="newspaperNav">
+                    <div class="logo">
+                        <a><img src="static/core-img/logo.png">
+                    <div class="classy-navbar-toggler">
+                        <span class="navbarToggler"><span><span><span>
+                    <div class="classy-menu">
+                        <div class="classycloseIcon">
+                            <div class="cross-wrap"><span class="top"><span class="bottom">
+
+                        <div class="classynav">
+                            <ul>
+                                <li class="active"><a href=@{HomeNewsR}>Home
+                                <li><a>Política
+                                <li><a href=@{ListaNewsR}>Notícias Recentes
+                                <li><a>Memes
+                                <li><a>Polêmicas
+                                <li><a>Contato
+
+<div class="hero-area">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-12 col-lg-8">
+
+                <div class="breaking-news-area d-flex align-items-center">
+                    <div class="news-title">
+                        <p>Notícias Recentes
+
+                    <div id="breakingNewsTicker">
+
+                            <a>  Michael Jackson Revive dos mortos no feriado de finados
+
+
+                <div class="breaking-news-area d-flex align-items-center mt-15">
+                    <div class="news-title title2">
+                        <p>Polêmicas
+
+                    <div id="internationalTicker">
+                        <ul>
+                            <li><a>Deixe de ser gado! Apenas R$20 ao mês
+
+            <div class="col-12 col-lg-4">
+                <div class="hero-add">
+                    <a><img src="static/hero-add.gif">
+
+
+<div class="featured-post-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-6 col-lg-8">
+                <div class="row">
+
+
+                    <div class="col-12 col-lg-7">
+                        <div class="single-blog-post featured-post">
+                            <div class="post-thumb">
+                                <a ><img src="static/terra.jpeg">
+
+                            <div class="post-data">
+                                <a  class="post-catagory">Universo
+                                <a  class="post-title">
+                                    <h6> Cientistas descobrem planeta habitável não esférico em sitema solar vizinho
+
+                                <div class="post-meta">
+                                    <p class="post-author">Por <a >Equipe Tilápia
+                                    <p class="post-excerp"> "Isso só reforça como o formato da nossa Terra é plano", diz o cientista do centro de pesquisas japonês Tireido Ku.
+
+                    <div class="col-12 col-lg-5">
+
+                        <div class="single-blog-post featured-post-2">
+                            <div class="post-thumb">
+                                <a ><img src="static/RC.jpg">
+
+                            <div class="post-data">
+                                <a  class="post-catagory">Final de Ano
+                                <div class="post-meta">
+                                    <a  class="post-title">
+                                        <h6>Pablo Vittar é anunciadx como substitutx de Roberto Carlos em show de final de ano da globo
+
+                        <div class="single-blog-post featured-post-2">
+                            <div class="post-thumb">
+                                <a ><img src="static/mine.jpg">
+
+                            <div class="post-data">
+                                <a  class="post-catagory">Jogos
+                                <div class="post-meta">
+                                    <a  class="post-title">
+                                        <h6>Minecraft é listado como disciplina obrigatória pelo MEC a partir de 2021
+
+            <div class="col-12 col-md-6 col-lg-4">
+
+                <div class="single-blog-post small-featured-post d-flex">
+                    <div class="post-thumb">
+                        <a> <img src="static/bonoro.jpg">
+                    <div class="post-data">
+                        <a  class="post-catagory">Política
+                        <div class="post-meta">
+                            <a  class="post-title">
+                                <h6>Bolsonaro faz declaração a Venezuela: "Tem que se fuder mesmo e acabou"
+
+                            <p class="post-date"><span>12:00 | <span>02 de Novembro
+
+                <div class="single-blog-post small-featured-post d-flex">
+                    <div class="post-thumb">
+                        <a ><img src="static/branco.jpg">
+
+                    <div class="post-data">
+                        <a  class="post-catagory">Memes
+                        <div class="post-meta">
+                            <a  class="post-title">
+                                <h6>Fatec Rubens Lara é declarada como uma boa faculdade.
+
+                            <p class="post-date"><span>11:00 | <span>13 de Novembro
+
+                <div class="single-blog-post small-featured-post d-flex">
+                    <div class="post-thumb">
+                        <a ><img src="static/tart.jpg">
+
+                    <div class="post-data">
+                        <a  class="post-catagory">Meio Ambiente
+                        <div class="post-meta">
+                            <a  class="post-title">
+                                <h6>Tartarugas se recusam a estudar Guerra de Canudos: "é gatilho"
+
+                            <p class="post-date"><span>15:00 | <span>18 de Novembro
+
+
+                <div class="single-blog-post small-featured-post d-flex">
+                    <div class="post-thumb">
+                        <a ><img src="static/hl3.jpg">
+
+                    <div class="post-data">
+                        <a  class="post-catagory">Entretenimento
+                        <div class="post-meta">
+                            <a  class="post-title">
+                                <h6>Valve anuncia Half Life 3
+
+                            <p class="post-date"><span>12:00 | <span>02 de Novembro
+
+
+                <div class="single-blog-post small-featured-post d-flex">
+                    <div class="post-thumb">
+                        <a ><img src="static/astro.jpg">
+
+                    <div class="post-data">
+                        <a  class="post-catagory">Astrologia
+                        <div class="post-meta">
+                            <a  class="post-title">
+                                <h6>Governo declara ilegal ser do signo de leão.
+
+                            <p class="post-date"><span>12:00 | <span>02 de Novembro
+
+
+                <div class="single-blog-post small-featured-post d-flex">
+                    <div class="post-thumb">
+                        <a ><img src="static/poke.jpg">
+
+                    <div class="post-data">
+                        <a  class="post-catagory">Games
+                        <div class="post-meta">
+                            <a  class="post-title">
+                                <h6>Nintendo é processada por apologia a abuso animal em novo Pokemon
+
+                            <p class="post-date"><span>12:00 | <span>02 de Novembro
+
+<footer class="footer-area">
+
+    <div class="main-footer-area">
+        <div class="container">
+            <div class="row">
+
+
+                <div class="col-12 col-sm-6 col-lg-4">
+                    <div class="footer-widget-area mt-80">
+
+                        <div class="footer-logo">
+                            <a><img src="static/core-img/logo.png">
+
+                        <ul class="list">
+                            <li><a>contato@tilapianews.com
+                            <li><a>www.tilapia.tk
+
+                <div class="col-12 col-sm-4 col-lg-2">
+
+                        <h4 class="widget-title">Menu
+
+                        <ul class="list">
+                            <li><a href=@{HomeNewsR}>Home
+                            <li><a >Política
+                            <li><a href=@{ListaNewsR}>Notícias Recentes
+                            <li><a >Memes
+                            <li><a >Polêmicas
+                            <li><a >Contato
+
+    <div class="bottom-footer-area">
+        <div class="container h-100">
+            <div class="row h-100 align-items-center">
+                <div class="col-12">

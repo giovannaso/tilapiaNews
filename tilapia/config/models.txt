@@ -1,0 +1,15 @@
+--Usuario
+--    nome  Text
+--    email Text
+--    senha Text
+--    UniqueEmailAdm email
+--    deriving Show
+
+Noticias sql=noticias
+    idNoticia Int
+    nmAutor Text
+    nmTitulo Text
+    nmCategoria Text
+    nmTexto Text
+    Primary idNoticia
+    deriving Show

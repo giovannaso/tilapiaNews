@@ -1,0 +1,123 @@
+<header class="header-area">
+
+    <div class="top-header-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="top-header-content d-flex align-items-center justify-content-between">
+
+                        <div class="logo" id="logo">
+                            <a><img src="static/core-static/logo.png">
+
+
+
+                        <div class="login-search-area d-flex align-items-center">
+
+                            <div class="login d-flex">
+                                <a>Login
+                                <a>Registro
+
+    <div class="newspaper-main-menu" id="stickyMenu">
+        <div class="classy-nav-container breakpoint-off">
+            <div class="container">
+
+                <nav class="classy-navbar justify-content-between" id="newspaperNav">
+                    <div class="logo">
+                        <a><img src="static/core-static/logo.png">
+                    <div class="classy-navbar-toggler">
+                        <span class="navbarToggler"><span><span><span>
+                    <div class="classy-menu">
+                        <div class="classycloseIcon">
+                            <div class="cross-wrap"><span class="top"><span class="bottom">
+
+                        <div class="classynav">
+                            <ul>
+                                <li class="active"><a href=@{HomeNewsR}>Home
+                                <li><a>Política
+                                <li><a href=@{ListaNewsR}>Notícias Recentes
+                                <li><a>Memes
+                                <li><a>Polêmicas
+                                <li><a>Contato
+
+<div class="hero-area">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-12 col-lg-8">
+
+                <div class="breaking-news-area d-flex align-items-center">
+                    <div class="news-title">
+                        <p>Notícias Recentes
+
+                    <div id="breakingNewsTicker">
+
+                            <a>  Michael Jackson Revive dos mortos no feriado de finados
+
+
+                <div class="breaking-news-area d-flex align-items-center mt-15">
+                    <div class="news-title title2">
+                        <p>Polêmicas
+
+                    <div id="internationalTicker">
+                        <ul>
+                            <li><a>Deixe de ser gado! Apenas R$20 ao mês
+
+            <div class="col-12 col-lg-4">
+                <div class="hero-add">
+                    <a><img src="static/hero-add.gif">
+
+<div class="contact-area section-padding-0-80">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="contact-title">
+                    <h2>Register news
+
+        <div class="row">
+            <div class="col-12 col-lg-8">
+                <div class="contact-form-area">
+                    <form action="#" method="post">
+                        <div class="row">
+                            <div class="col-12 col-lg-6">
+                                <input type="text" class="form-control" id="name" placeholder="Titulo">
+                            <div class="col-12 col-lg-6">
+                                <input type="email" class="form-control" id="email" placeholder="Author">
+                            <div class="col-12">
+                                <textarea name="message" class="form-control" id="message" cols="30" rows="10" placeholder="News body">
+                            <div class="col-12">
+                                <button type="button" class="btn btn-danger">Search image
+                            <div class="col-12 text-center">
+                                <button class="btn newspaper-btn mt-30 w-100" type="submit">Send news
+
+<footer class="footer-area">
+
+    <div class="main-footer-area">
+        <div class="container">
+            <div class="row">
+
+
+                <div class="col-12 col-sm-6 col-lg-4">
+                    <div class="footer-widget-area mt-80">
+
+                        <div class="footer-logo">
+                            <a><img src="static/core-static/logo.png">
+
+                        <ul class="list">
+                            <li><a>contato@tilapianews.com
+                            <li><a>www.tilapia.tk
+
+                <div class="col-12 col-sm-4 col-lg-2">
+
+                        <h4 class="widget-title">Menu
+
+                        <ul class="list">
+                            <li><a href=@{HomeNewsR}>Home
+                            <li><a >Política
+                            <li><a href=@{ListaNewsR}>Notícias Recentes
+                            <li><a >Memes
+                            <li><a >Polêmicas
+                            <li><a >Contato
+
+    <div class="bottom-footer-area">
+        <div class="container h-100">
+            <div class="row h-100 align-items-center">
+                <div class="col-12">

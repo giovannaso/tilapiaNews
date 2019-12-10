@@ -1,0 +1,25 @@
+<body class="bg-light">
+    <div class="container grid-striped">
+        <div class="row">
+            <br>
+        <div class="row font-weight-bold py-2">
+            <div class="col-sm-4">
+                TÍTULO
+            <div class="col-sm-4">
+                AUTOR
+            <div class="col-sm-4">
+                CATEGORIA
+            <div class="col-sm-4">
+                LINK
+
+    $forall Entity pid noticia <- noticias
+        <div class="row py-2">
+            <div class="col-sm-4">
+                #{NoticiasnmTitulo noticias}
+            <div class="col-sm-4">
+                #{NoticiasnmAutor noticias}
+            <div class="col-sm-4">
+                #{NoticiasnmCategoria noticias}
+            <div class="col-sm-4">
+                <a href="/noticia/#(NoticiasidNoticia noticias}"}
+                    Mais Informações
